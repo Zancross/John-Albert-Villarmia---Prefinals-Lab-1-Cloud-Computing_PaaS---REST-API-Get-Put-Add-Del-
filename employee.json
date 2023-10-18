@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "Company Name": "NIJISANJI",
+      "Name of Employee": "Pomu Rainpuff",
+      "Position": "Lazu Light",
+      "Location": "NIJISANJI EN",
+      "Id": 1
+    },
+    {
+      "Company Name": "NIJISANJI",
+      "Name of Employee": "Elira Pendora",
+      "Position": "Lazu Light",
+      "Location": "NIJISANJI EN",
+      "Id": 2
+    }    
+  ]
+}
